@@ -4,7 +4,7 @@
 - [DESCRIPTION](#Description)
 - [HOW TO RUN PROGRAM](#How-to-run-program)
 - [FILES USED](#files-used)
-- [ADDITIONAL DOCUMENTATION](#additional-documentation0
+- [ADDITIONAL DOCUMENTATION](#additional-documentation)
 - [VERSIONING](#versioning)
 - [NEW TITLE](#New-title)
 
