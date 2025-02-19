@@ -13,6 +13,7 @@
 
 
 ## Description
+A brief description of my project.
 
 
 ## How to Run Program
@@ -22,3 +23,4 @@
 
 
 ## Versioning
+This is the first version *(V1)* of **Hello-world**
