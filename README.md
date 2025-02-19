@@ -2,7 +2,6 @@
 
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
-- [HOW TO RUN PROGRAM](#How-to-run-program)
 - [FILES USED](#files-used)
 - [ADDITIONAL DOCUMENTATION](#additional-documentation)
 - [VERSIONING](#versioning)
@@ -16,10 +15,12 @@
 A brief description of my project.
 
 
-## How to Run Program
+## Files Used
+*Included here would be attached word.pdf files.**
 
 
 ## Additional Documentation
+There is no additional documentation currently provided.
 
 
 ## Versioning
